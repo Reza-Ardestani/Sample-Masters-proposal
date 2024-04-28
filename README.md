@@ -1,9 +1,14 @@
 # Welcome to my GitHub repository on Sample Proposal for Master's Thesis in Machine Learning! 
 
-Here, you'll find a valuable resource for navigating the process of crafting a master's proposal in the realm of machine learning. I've uploaded my own proposal as a sample, aiming to provide assistance and guidance to fellow researchers and students embarking on similar journeys. 
+## About this repo 
+I've uploaded my own proposal as a sample, aiming to provide assistance and guidance to fellow researchers and students embarking on similar journeys. 
 
-You can easily upload the provided files on Overleaf and write your proposal in a professional way in Latex!
+## Instructions
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/U-lJ9dlSo4Q) "Quick Start on Overleaf and Latex | Sample for Master's / Machine learning Proposal | Proposal Tips
+")
+
+
+
 
 If you found this repository helpful, please star it :) 
-
 Thank you,
